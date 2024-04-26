@@ -11,13 +11,5 @@
 - /restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbhiModszYT/Groups-Member-bans)
-
-
-# Channel
-* [AbhiModszYT](https://t.me/AbhiModszYT_Return)
-
-
-# Credits
-* [AbhiModszYT](https://github.com/AbhiModszYT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Githubsoniaryan2/AnimalBanAllBot)
 
