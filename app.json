@@ -2,8 +2,7 @@
 {
     "name": "Ban All Bot",
     "description": "help you to ban the all memebers from the group",
-    "repository": "https://github.com/AbhiModszYT/Groups-Member-bans",
-    "logo": "https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": [
         "python",
         "telegram"
@@ -28,12 +27,12 @@
   "env": {
       "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "12227067",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "b463bedd791aa733ae2297e6520302fe",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
@@ -43,7 +42,7 @@
       },      
       "SUDO": {
             "description": "Sudo users id space by space Like: 6204761408 6204761408",
-            "value": "6204761408 6440102928 5360305806",
+            "value": "",
             "required": true  
       }
     },
