@@ -11,5 +11,5 @@
 - /restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Githubsoniaryan2/AnimalBanAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Githubsoniaryan/AnimalBanAllBotOp)
 
